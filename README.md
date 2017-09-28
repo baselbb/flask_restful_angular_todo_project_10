@@ -8,15 +8,14 @@ create a backend api to create users and add/edit/delete todo items.  (e.g. use 
 ```python tests.py```
 
 ## Coverage Report
-statements, miss, cover
-
-app.py                                                                                                                                                       18      5    72%
-auth.py                                                                                                                                                      21      9    57%
-config.py                                                                                                                                                     3      0   100%
-models.py                                                                                                                                                    47      7    85%
-resources/todos.py                                                                                                                                           45      2    96%
-resources/users.py                                                                                                                                           25     13    48%
-tests.py                                                                                                                                                     84      1    99%
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+file|statements| miss| cover|
+----|----------|-----|------|
+app.py|18|5|72%|
+auth.py|21|9|57%|
+config.py|3|0|100%|
+models.py|47|7|85%|
+resources/todos.py|45|2|96%|
+resources/users.py|25|13|48%|
+tests.py|84|1|99%|
 
 
